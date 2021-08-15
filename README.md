@@ -184,3 +184,11 @@ classRoster.remove("A3");
  
 
 ### G.  Demonstrate professional communication in the content and presentation of your submission.
+
+# App Used
+
+Visual Studio 2019
+
+# Completed Project
+
+![Completed Project Screenshot](/C867_RosterProject_Screenshot.PNG)
