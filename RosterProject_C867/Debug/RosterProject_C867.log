@@ -1,0 +1,7 @@
+﻿  roster.cpp
+C:\Users\wyu10\source\repos\RosterProject_C867\RosterProject_C867\roster.cpp(116,27): warning C4018: '<': signed/unsigned mismatch
+  RosterProject_C867.cpp
+  student.cpp
+  Generating Code...
+roster.obj : error LNK2019: unresolved external symbol "public: enum DegreeProgram __thiscall Student::getProgram(void)" (?getProgram@Student@@QAE?AW4DegreeProgram@@XZ) referenced in function "public: void __thiscall Roster::printByDegreeProgram(enum DegreeProgram)" (?printByDegreeProgram@Roster@@QAEXW4DegreeProgram@@@Z)
+C:\Users\wyu10\source\repos\RosterProject_C867\Debug\RosterProject_C867.exe : fatal error LNK1120: 1 unresolved externals
