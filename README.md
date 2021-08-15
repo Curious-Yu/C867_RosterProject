@@ -1,4 +1,8 @@
 # C867_RosterProject
+
+# Note
+
+This is a C++ project created for the WGU C867 course. The purpose of this project is to create a design of an application based on given business requirements.
  
 # SCENARIO
 
